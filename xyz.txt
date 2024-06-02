@@ -1,7 +1,0 @@
-:xyz
-pqr
-jio
-extra_github
-extra
-changes after stash
-stash
